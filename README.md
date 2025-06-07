@@ -1,0 +1,1 @@
+# Criacao_de_maquina_virtual_Azure
